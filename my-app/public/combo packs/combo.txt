@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "product": "Cup cakes and brownie box",
+    "image": "/combo packs/cupcakesandbrowniebox.jpg",
+    "img": "/homeCake/Combo.jpeg",
+    "price": "$79.99",
+    "category": "Combo Packs",
+    "description": "Serves 8-9."
+  }
+]

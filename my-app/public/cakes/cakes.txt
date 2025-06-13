@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "product": "2layer Chocolate Cake",
+    "image": "/cakes/2layerChocolateCake.jpg",
+    "img": "/homeCake/homepagecake.jpeg",
+    "price": "$100.99",
+    "category": "Cakes",
+    "description": "Serves 8-9."
+  },
+  {
+    "id": "2",
+    "product": "3layer Vanilla Cake",
+    "image": "/cakes/3layerVanilla.jpg",
+    "img": "/homeCake/icecream cake.jpg",
+    "price": "$99.99",
+    "category": "Cakes",
+    "description": "Serves 8-9."
+  },
+  {
+    "id": "3",
+    "product": "4layer Redvelvet Cake",
+    "image": "/cakes/4layerLemonCake.jpg",
+    "img": "/homeCake/cheesecake.jpg",
+    "price": "$89.99",
+    "category": "Cakes",
+    "description": "Serves 8-9."
+  },
+  {
+    "id": "4",
+    "product": "carrot cake",
+    "image": "/cakes/carrotcake.jpg",
+    "img": "/homecake/Torte.jpg",
+    "price": "$79.99",
+    "category": "Cakes",
+    "description": "Serves 8-9."
+  }
+]

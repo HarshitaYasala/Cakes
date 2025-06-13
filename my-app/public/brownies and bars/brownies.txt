@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "product": "2layer Chocolate Cake",
+    "img": "/brownies and bars/classic brownies.jpg",
+    "price": "$100.99",
+    "category": "Cakes",
+    "description": "Serves 8-9."
+  },
+  {
+    "id": "2",
+    "product": "3layer Vanilla Cake",
+    "img": "/brownies and bars/Fruit bars.jpeg",
+    "price": "$99.99",
+    "category": "Cakes",
+    "description": "Serves 8-9."
+  },
+  {
+    "id": "3",
+    "product": "4layer Redvelvet Cake",
+    "img": "/brownies and bars/Nut bars.jpg",
+    "price": "$89.99",
+    "category": "Cakes",
+    "description": "Serves 8-9."
+  },
+  {
+    "id": "4",
+    "product": "carrot cake",
+    "img": "/brownies and bars/blonde brownie.jpg",
+    "price": "$79.99",
+    "category": "Cakes",
+    "description": "Serves 8-9."
+  }
+]

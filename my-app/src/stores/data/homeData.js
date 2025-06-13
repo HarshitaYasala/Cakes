@@ -1,0 +1,34 @@
+export const homeData = [
+    {
+      "id": "1",
+      "product": "Cakes",
+      "image": "/homeCake/homepagecake.jpeg",
+      "price": "$100.99",
+      "category": "Cakes",
+      "description": "Serves 8-9."
+    },
+    {
+      "id": "2",
+      "product": "Cup Cakes",
+      "image": "/homeCake/CupCake.jpeg",
+      "price": "$99.99",
+      "category": "Cakes",
+      "description": "Serves 8-9."
+    },
+    {
+      "id": "3",
+      "product": "Combo Packs",
+      "image": "/homeCake/Combo.jpeg",
+      "price": "$89.99",
+      "category": "Cakes",
+      "description": "Serves 8-9."
+    },
+    {
+      "id": "4",
+      "product": "Easter Special",
+      "image": "/homeCake/easterspecial.jpg",
+      "price": "$79.99",
+      "category": "Cakes",
+      "description": "Serves 8-9."
+    }
+  ]
