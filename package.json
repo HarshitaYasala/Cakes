@@ -1,5 +1,10 @@
 {
   "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.15.2",
     "react-bootstrap-typeahead": "^6.3.2",
     "react-toastify": "^10.0.4"
   }
